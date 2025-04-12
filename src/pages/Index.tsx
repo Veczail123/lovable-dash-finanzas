@@ -56,7 +56,7 @@ const Index = () => {
   return (
     <div className="min-h-screen p-6 bg-dashboard-dark-bg">
       <header className="mb-6">
-        <h1 className="text-2xl font-bold text-white">Dashboard Finanzas Gerenciales</h1>
+        <h1 className="text-2xl font-bold text-white">Dashboards Contabilidad</h1>
       </header>
       
       {/* Cards Section */}
